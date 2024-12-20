@@ -1,0 +1,31 @@
+{
+  "name": "web3-testing",
+  "version": "1.0.0",
+  "description": "web3-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaizaKurniawan/web3-testing.git"
+  },
+  "keywords": [
+    "web3",
+    "web3-test"
+  ],
+  "author": "raizakurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaizaKurniawan/web3-testing/issues"
+  },
+  "homepage": "https://github.com/RaizaKurniawan/web3-testing#readme",
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.17"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
